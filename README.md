@@ -1,3 +1,4 @@
+# SmartSpark
 # Apache Spark
 
 Spark is a fast and general cluster computing system for Big Data. It provides
@@ -96,3 +97,4 @@ distribution.
 
 Please refer to the [Configuration Guide](http://spark.apache.org/docs/latest/configuration.html)
 in the online documentation for an overview on how to configure Spark.
+=======
